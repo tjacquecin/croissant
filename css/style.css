@@ -15,3 +15,10 @@ footer a {
   margin: 0 10px;
   color: brown;
 }
+
+.croissant {
+  max-width: 100%;
+  border-radius: 10px;
+  margin: 30px 0;
+  display: block;
+}
